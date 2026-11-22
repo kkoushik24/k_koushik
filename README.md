@@ -1,4 +1,4 @@
-### Hi, I'm Koushik 👋
+### Hi, I'm K Koushik 👋
 
 Computer Science Engineering student at **Sapthagiri NPS University**, Bengaluru — aspiring **AI/ML Engineer**, currently hunting for hackathons and my next project.
 
